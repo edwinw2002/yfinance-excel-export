@@ -1,0 +1,7 @@
+# Core
+pandas
+numpy
+yfinance
+
+# Excel export
+openpyxl
